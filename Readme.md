@@ -16,6 +16,7 @@
   <img alt="Rajeev's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
+<br/>
 
 - 🔭 I’m currently working on a social app to connect strangers over chat, video/voice calls, and host fun live streams.
 - 🌱 I’m currently learning Haskell.
@@ -29,5 +30,4 @@
 
 **Languages and Tools:**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callicoder&theme=light&count_private=true&layout=compact)](https://github.com/callicoder) &nbsp;
-[![Rajeev's github stats](https://github-readme-stats.vercel.app/api?username=callicoder&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs)](https://github.com/callicoder)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callicoder&theme=light&count_private=true&layout=compact)](https://github.com/callicoder) [![Rajeev's github stats](https://github-readme-stats.vercel.app/api?username=callicoder&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs)](https://github.com/callicoder)
