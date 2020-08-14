@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on a social app to connect strangers over chat, video/voice calls, and host fun live streams.
+- 🔭 I’m currently working on a social app to connect strangers over chat/video/voice calls, and host fun live streams.
 - 🌱 I’m currently learning Haskell.
 - 💬 Ask me about Java, Golang, System design or any tech related stuff.
 - 😄 Pronouns: He/His
@@ -30,4 +30,9 @@
 
 **Languages and Tools:**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callicoder&theme=light&count_private=true&layout=compact)](https://github.com/callicoder) [![Rajeev's github stats](https://github-readme-stats.vercel.app/api?username=callicoder&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs)](https://github.com/callicoder)
+<a href="https://github.com/callicoder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callicoder&theme=light&count_private=true&layout=compact" alt="Rajeev's most used languages" />
+</a>
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=callicoder&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Rajeev's github stats"/>
+</a>
