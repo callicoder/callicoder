@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on a social app to connect strangers over chat/video/voice calls, and host fun live streams.
+- 🔭 I’m currently working on an Influencer Marketing product.
 - 🌱 I’m currently learning Haskell.
 - 💬 Ask me about Java, Golang, System design or any tech related stuff.
 - 😄 Pronouns: He/His
