@@ -21,8 +21,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on an Influencer Marketing product.
-- 🌱 I’m currently learning Haskell.
+- 💻 I’m creating a full-stack web development course using Go and React.
+- 🌱 I’m learning about Blockchain, Solidity, and Smart contracts.
 - 💬 Ask me about Java, Golang, System design or any tech related stuff.
 - 😄 Pronouns: He/His
 
