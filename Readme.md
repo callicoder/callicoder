@@ -1,25 +1,5 @@
 ## Hey there, I'm Rajeev Singh! 👋
 
-<style>
-    .stats-widget {
-        margin-bottom: 8px;
-        display: block;
-    }
-
-    @media only screen and (min-width: 768px) {
-        .lang-widget {
-            width: 40%;
-            float: left;
-        }
-
-        .stars-widget {
-            width: 50%;
-            float: left;
-        }
-    }
-</style>
-
-
 <a href="https://twitter.com/callicoder">
   <img alt="Rajeev's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> &nbsp;
@@ -53,9 +33,9 @@
 
 **Languages and Tools:**  
 
-<a href="https://github.com/callicoder" class="stats-widget lang-widget">
+<a href="https://github.com/callicoder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callicoder&theme=light&count_private=true&layout=compact" alt="Rajeev's most used languages" />
 </a>
-<a href="https://github.com/callicoder" class="stats-widget stars-widget">
+<a href="https://github.com/callicoder">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=callicoder&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Rajeev's github stats"/>
 </a>
