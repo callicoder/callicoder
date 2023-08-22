@@ -22,7 +22,7 @@
 <br/>
 
 - 💻 I’m creating a full-stack web development course using Go and React.
-- 🌱 I’m working on some side projects based on Chat GPT.
+- 🌱 I’m working on a side project based on ChatGPT.
 - 💬 Ask me about Java, Golang, System design, or any tech-related stuff.
 - 😄 Pronouns: He/His
 
