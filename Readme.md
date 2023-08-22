@@ -22,8 +22,8 @@
 <br/>
 
 - 💻 I’m creating a full-stack web development course using Go and React.
-- 🌱 I’m learning about Blockchain, Solidity, and Smart contracts.
-- 💬 Ask me about Java, Golang, System design or any tech related stuff.
+- 🌱 I’m working on some side projects based on Chat GPT.
+- 💬 Ask me about Java, Golang, System design, or any tech-related stuff.
 - 😄 Pronouns: He/His
 
 [![Twitter follow @calliCoder](https://img.shields.io/twitter/follow/callicoder?style=social)](https://twitter.com/callicoder) &nbsp;
